@@ -10,3 +10,4 @@ The notebooks are separated into days, each with a particular topic.
 6. Day 6: [RNN for text generation](Day6.ipynb) (mostly based of [Rao and McMahan](https://github.com/delip/PyTorchNLPBook/tree/master))
 7. Day 7: [LLM Eval](Day7.ipynb) (based on the [DeepEval library](https://github.com/confident-ai/deepeval)) 
 8. Day 8: [Summarization](Day8.ipynb) (mostly based of [Tunstall, von Werra, and Wolf](https://github.com/nlp-with-transformers))
+9. Day 8: [Question and answering 1 (general architecture)](Day9.ipynb) (mostly based of [Tunstall, von Werra, and Wolf](https://github.com/nlp-with-transformers))
