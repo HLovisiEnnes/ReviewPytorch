@@ -12,3 +12,4 @@ The notebooks are separated into days, each with a particular topic.
 8. Day 8: [Summarization](Day8.ipynb) (mostly based of [Tunstall, von Werra, and Wolf](https://github.com/nlp-with-transformers))
 9. Day 9: [Question and answering 1 (general architecture)](Day9.ipynb) (mostly based of [Tunstall, von Werra, and Wolf](https://github.com/nlp-with-transformers))
 10. Day 10: Question and answering 2 (fine-tuning and RAG) (this one has two versions, one for [haystack v1](Day10v1.ipynb) -- fine-tuning -- and one for [haystack v2](Day10v1.ipynb)) (mostly based of [Tunstall, von Werra, and Wolf](https://github.com/nlp-with-transformers))
+11. Day 11: [Miniproject 1: AG News classification](Day11.ipynb)
