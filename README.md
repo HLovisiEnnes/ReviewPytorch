@@ -11,6 +11,6 @@ The notebooks are separated into days, each with a particular topic.
 7. Day 7: [LLM Eval](notebooks/Day07.ipynb) (based on the [DeepEval library](https://github.com/confident-ai/deepeval)) 
 8. Day 8: [Summarization](notebooks/Day08.ipynb) (mostly based of [Tunstall, von Werra, and Wolf](https://github.com/nlp-with-transformers))
 9. Day 9: [Question and answering 1 (general architecture)](notebooks/Day09.ipynb) (mostly based of [Tunstall, von Werra, and Wolf](https://github.com/nlp-with-transformers))
-10. Day 10: Question and answering 2 (fine-tuning and RAG) (this one has two versions, one for [haystack v1](notebooks/Day10v1.ipynb) -- fine-tuning -- and one for [haystack v2](notebooks/Day10v1.ipynb)) (mostly based of [Tunstall, von Werra, and Wolf](https://github.com/nlp-with-transformers))
+10. Day 10: Question and answering 2 (fine-tuning and RAG) (this one has two versions, one for [haystack v1](notebooks/Day10v1.ipynb) -- fine-tuning -- and one for [haystack v2](notebooks/Day10v1.ipynb); the one installed by the [requirements file](requirements.txt) is the second) (mostly based of [Tunstall, von Werra, and Wolf](https://github.com/nlp-with-transformers))
 11. Day 11: [Miniproject 1: AG News classification](notebooks/Day11.ipynb)
 12. Day 12: [Miniproject 2: Trivia QA](notebooks/Day11.ipynb)
